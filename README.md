@@ -5,7 +5,7 @@ Great software in windows
 - 浏览网页: Chrome
 - 文档处理: Office 365, Typora, Prezi, Sway， 福昕PDF阅读器(UWP)
 - 视频剪辑: AE, PR, EN, DaVinci, Twixtor(视频变速插件)
-- 图像处理：IrfanView(UWP), PS, LR, 泼辣修图(UWP), ScreenToGif, Shape Collage, Collagelt
+- 图像处理：IrfanView(UWP), PS, LR, 泼辣修图(UWP), ScreenToGif, GifCam, Shape Collage, Collagelt
 - 影音娱乐: PotPlayer, QuickTime(装Adobe必备)
 - 文件压缩: Bandizip, 7-zip
 - 文件检索: Everything, Listary
