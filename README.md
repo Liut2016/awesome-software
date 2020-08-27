@@ -1,7 +1,7 @@
 # awesome-software
 Great software
  
-## windows
+## Windows
 - 浏览网页: Chrome
 - 文档处理: Office 365, Typora, Prezi, Sway， 福昕PDF阅读器(UWP)
 - 视频剪辑: AE, PR, EN, DaVinci, Twixtor(视频变速插件)
@@ -28,7 +28,7 @@ Great software
 - 压缩: The Unarchiver
 - 播放器: IINA - [IINA](https://iina.io/)
 
-## chrome插件
+## Chrome插件
 - Listen 1: 音乐聚合
 - AdBlock, Adblock Plus, Adblock Pro, Adblocker for Chrome: 去广告
 - AHA Music, Beat Finder: 网页上听歌识曲
