@@ -1,5 +1,5 @@
 # awesome-software
-Great software in windows
+Great software
  
 ## windows
 - 浏览网页: Chrome
@@ -24,6 +24,8 @@ Great software in windows
 - 分屏: Spectacle
 - 风扇管理: smcFanControl
 - 屏幕取色: Color Note
+- 文本编辑器: Sublime Text
+- 压缩: The Unarchiver
 - 播放器: IINA - [IINA](https://iina.io/)
 
 ## chrome插件
