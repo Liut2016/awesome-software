@@ -15,6 +15,17 @@ Great software in windows
 - 即时通讯: 微信, TIM
 - 特殊功能: CAJViewer(知网文献), 百度网盘, 分区助手，格式工厂, SpaceSniffer(查看磁盘空间占用), IDM(下载), TranslucentTB(美化)
 
+## Mac
+- 配置【轻点点按】（设置-触控板-光标与点按）与【三指拖移】（设置-辅助功能-指针控制-触控板选项）
+- [Mac使用技巧](https://www.cnblogs.com/chijianqiang/)
+- 命令行: iTerm (配置oh my zsh 和 agnoster主题)
+- git界面: Sourcetree
+- 搜索: Alfred
+- 分屏: Spectacle
+- 风扇管理: smcFanControl
+- 屏幕取色: Color Note
+- 播放器: IINA - [IINA](https://iina.io/)
+
 ## chrome插件
 - Listen 1: 音乐聚合
 - AdBlock, Adblock Plus, Adblock Pro, Adblocker for Chrome: 去广告
